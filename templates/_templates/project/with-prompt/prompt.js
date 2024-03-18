@@ -2,7 +2,7 @@ module.exports = [
   {
     type: 'input',
     name: 'project',
-    message: 'Project name?',
+    message: 'Project name????????',
   },
   {
     type: 'input',
